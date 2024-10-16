@@ -1,0 +1,47 @@
+.customDatePicker {
+        
+        padding: 1rem;
+        display: flex;
+        gap: 2rem;
+        
+        flex-wrap: wrap;
+       
+        justify-content: right;
+        align-items: center;
+  }
+  .customButton {
+    background-color: red;
+    color: white;
+    width: 7rem;
+    height: 2rem;
+    float:right;
+  }
+  
+  .customButton:hover {
+    background-color: black;
+  }
+  .customDialogContent {
+   
+    padding: 20px;
+  }
+  .col-25 {
+    float: left;
+    width: 40%;
+    margin-top: 6px;
+  }
+  .col-24{
+    float: left;
+    width: 40%;
+    margin-top: 6px;
+  }
+  .col-23{
+    float: left;
+    width: 47%;
+    margin-top: 6px;
+  }
+  
+  .Title{
+    float: left;
+    color: white;
+    line-height:0%
+  }
