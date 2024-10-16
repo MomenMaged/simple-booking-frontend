@@ -24,3 +24,7 @@ This is the frontend application for the Simple Booking System, built using Reac
 - View Resources: Displays a list of available resources.
 - Book Resources: Allows users to book resources for a specified time period and quantity.
 - Validation: Ensures resources are available for the requested time period and quantity.
+
+### Backend Link
+This frontend application is designed to work with the backend service available at:
+- https://github.com/MomenMaged/simple-booking-backend
